@@ -1,4 +1,4 @@
-//Static data member and Function 
+//Static data member and member Function 
 #include <iostream.h>
 #include <conio.h>
 class Student
