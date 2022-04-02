@@ -2,11 +2,10 @@
 
 #include <iostream.h>
 #include <conio.h>
-
 void main()
 {
-    clrscr();
     long int n, c;
+    Clrscr();
     cout << "\n Enter a Positive number ::";
     cin >> n;
     c = 0;
@@ -15,6 +14,6 @@ void main()
         n = n / 10;
         c = c + 1;
     }
-    cout << "\n The number of the digits is ::" << c;
+    cout << "\n The Number of digits is ::" << c;
     getch();
 }
