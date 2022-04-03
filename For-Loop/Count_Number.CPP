@@ -1,4 +1,4 @@
-// Program to Count Number of Digits in given Number.
+// Program to Count Number of Digits in given Number
 
 #include <iostream.h>
 #include <conio.h>
