@@ -1,4 +1,4 @@
-// Program to explain Call By Reference.
+// Program to explain Call By Reference
 
 #include <iostream.h>
 #include <conio.h>
