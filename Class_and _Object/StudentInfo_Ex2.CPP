@@ -26,10 +26,7 @@ class Student
 		{
 			cout<<"\nName"<<"\tRollno"<<"\t Fees";
 			cout<<"\n\n"<<name<<"\t"<<rollno<<"\t"<<fees;
-
-
-
-		}
+                }
 };
 void main()
 {
